@@ -14,7 +14,7 @@ Everything here is open-source and brought together under one roof for convenien
 | **[sysmon-config/](sysmon-config/)** | **Enterprise Windows monitoring template (5.1k stars)** | **Sysmon configuration • Threat hunting • SOC operations** |
 | **[opencanary/](opencanary/)** | **Enterprise deception technology platform (2.5k stars)** | **Honeypot services • Early threat detection • SOC integration** |
 | **[tpotce/](tpotce/)** | **All-in-one multi honeypot platform with ELK (8k stars)** | **20+ honeypots • Threat intelligence • Enterprise analytics** |
-| **testmynids/** | NIDS effectiveness test suite | Snort/Suricata tuning • PCAP crafting |
+| **[testmynids/](testmynids/)** | **NIDS effectiveness validation framework (264 stars)** | **15+ attack simulations • SOC validation • Multi-protocol testing** |
 
 ## Quick start (example: Pacu)
 
