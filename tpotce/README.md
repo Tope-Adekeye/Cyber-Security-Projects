@@ -2,7 +2,7 @@
 
 **Comprehensive enterprise honeypot platform integrating 20+ honeypot technologies with ELK Stack analytics**
 
-[![Stars](https://img.shields.io/badge/GitHub-8k%20stars-yellow.svg)](https://github.com/telekom-security/tpotce)
+[![Stars](https://img.shields.io/badge/GitHub-8k%20stars-yellow.svg)](https://github.com/Tope-Adekeye/Cyber-Security-Projects/tree/main/tpotce)
 [![Platform](https://img.shields.io/badge/Platform-Docker%20%7C%20Linux-blue.svg)](#)
 [![Honeypots](https://img.shields.io/badge/Honeypots-20%2B%20Services-green.svg)](#)
 [![License](https://img.shields.io/badge/License-GPL--3.0-red.svg)](LICENSE)
@@ -165,9 +165,9 @@ T-Pot is the **most comprehensive multi-honeypot platform** available, developed
 
 ### **⚡ One-Command Installation**
 ```bash
-# Download and run T-Pot installer
-git clone https://github.com/telekom-security/tpotce
-cd tpotce
+# Download from Tope Adekeye's cybersecurity portfolio
+git clone https://github.com/Tope-Adekeye/Cyber-Security-Projects.git
+cd Cyber-Security-Projects/tpotce
 sudo ./install.sh
 ```
 
@@ -231,6 +231,19 @@ systemctl stop tpot
 - **Competitive Advantage**: Superior threat awareness
 
 ---
+
+## 📧 **Professional Contact**
+
+**Tope Adekeye**  
+📧 **adekeyetopeaiexpert@gmail.com**  
+🏢 **Specialization**: Governance • Risk • Compliance • AI Ethics • Cloud Security  
+🔗 **[LinkedIn](https://www.linkedin.com/in/temitope-adekeye-001a04359/)** | **[GitHub](https://github.com/Tope-Adekeye)**
+
+---
+
+> **Professional Note**: T-Pot represents the industry standard for comprehensive honeypot platforms, combining multiple deception technologies with advanced analytics. This platform requires careful planning and sufficient resources for optimal enterprise deployment.
+
+*Part of the [Cyber-Security-Projects](https://github.com/Tope-Adekeye/Cyber-Security-Projects) collection*
 
 **Security Impact**: T-Pot provides comprehensive threat detection and intelligence gathering capabilities that significantly enhance organizational security posture through advanced honeypot technology and analytics.
 

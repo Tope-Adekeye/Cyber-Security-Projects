@@ -2,7 +2,7 @@
 
 **Industry-standard Sysmon configuration for high-quality Windows system monitoring and threat detection**
 
-[![Stars](https://img.shields.io/badge/GitHub-5.1k%20stars-yellow.svg)](https://github.com/SwiftOnSecurity/sysmon-config)
+[![Stars](https://img.shields.io/badge/GitHub-5.1k%20stars-yellow.svg)](https://github.com/Tope-Adekeye/Cyber-Security-Projects/tree/main/sysmon-config)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](#)
 [![Monitoring](https://img.shields.io/badge/Monitoring-Sysmon-green.svg)](#)
 [![License](https://img.shields.io/badge/License-CC0--1.0-red.svg)](#)
@@ -145,8 +145,17 @@ This configuration demonstrates expertise in:
 - **Performance Proven**: Minimal impact on production systems
 - **Tutorial Value**: Educational resource for security professionals
 
+## 📧 **Professional Contact**
+
+**Tope Adekeye**  
+📧 adekeyetopeaiexpert@gmail.com  
+🏢 **Specialization**: Governance • Risk • Compliance • AI Ethics • Cloud Security  
+🔗 [LinkedIn](https://www.linkedin.com/in/temitope-adekeye-001a04359/) | [GitHub](https://github.com/Tope-Adekeye)
+
 ---
 
-**Note**: This configuration expects software to be installed system-wide and NOT in user directories. It's designed as a starting point that requires environment-specific customization for optimal results.
+> **Professional Note**: This Sysmon configuration represents industry best practices for Windows endpoint monitoring. Proper deployment requires environment-specific tuning and integration with existing security infrastructure for optimal effectiveness.
+
+*Part of the [Cyber-Security-Projects](https://github.com/Tope-Adekeye/Cyber-Security-Projects) collection*
 
 **Security Impact**: Provides comprehensive Windows endpoint visibility essential for modern threat detection, incident response, and security operations center activities.

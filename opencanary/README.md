@@ -2,7 +2,7 @@
 
 **Modular and decentralized honeypot platform for early threat detection and network security monitoring**
 
-[![Stars](https://img.shields.io/badge/GitHub-2.5k%20stars-yellow.svg)](https://github.com/thinkst/opencanary)
+[![Stars](https://img.shields.io/badge/GitHub-2.5k%20stars-yellow.svg)](https://github.com/Tope-Adekeye/Cyber-Security-Projects/tree/main/opencanary)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Docker-blue.svg)](#)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-green.svg)](#)
 [![License](https://img.shields.io/badge/License-BSD--3--Clause-red.svg)](LICENSE)
@@ -87,9 +87,9 @@ sudo opencanaryd --start --uid=nobody --gid=nogroup
 
 ### **Docker Deployment**
 ```bash
-# Using docker-compose
-git clone https://github.com/thinkst/opencanary
-cd opencanary
+# Using docker-compose from Tope Adekeye's cybersecurity portfolio
+git clone https://github.com/Tope-Adekeye/Cyber-Security-Projects.git
+cd Cyber-Security-Projects/opencanary
 docker-compose up latest
 ```
 
@@ -210,7 +210,18 @@ docker run -d --name opencanary-web -p 80:80 opencanary:latest
 opencanaryd --training-mode --log-level=debug
 ```
 
+## 📧 **Professional Contact**
+
+**Tope Adekeye**  
+📧 adekeyetopeaiexpert@gmail.com  
+🏢 **Specialization**: Governance • Risk • Compliance • AI Ethics • Cloud Security  
+🔗 [LinkedIn](https://www.linkedin.com/in/temitope-adekeye-001a04359/) | [GitHub](https://github.com/Tope-Adekeye)
+
 ---
+
+> **Professional Note**: OpenCanary represents industry-leading deception technology designed for enterprise threat detection. Proper deployment requires careful network planning and integration with existing security infrastructure.
+
+*Part of the [Cyber-Security-Projects](https://github.com/Tope-Adekeye/Cyber-Security-Projects) collection*
 
 **Security Impact**: OpenCanary provides early threat detection capabilities that complement traditional security tools, offering high-confidence alerts and detailed attack intelligence for proactive security operations.
 
