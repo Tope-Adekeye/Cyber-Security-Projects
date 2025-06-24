@@ -12,7 +12,7 @@ Everything here is open-source and brought together under one roof for convenien
 | **[sigma/](sigma/)** | **Universal SIEM detection rules (3000+ rules)** | **Cross-platform detection • MITRE ATT&CK coverage • SOC operations** |
 | **[MemProcFS/](MemProcFS/)** | **Advanced memory forensics framework** | **Virtual file system • Live analysis • DFIR • Malware detection** |
 | **[sysmon-config/](sysmon-config/)** | **Enterprise Windows monitoring template (5.1k stars)** | **Sysmon configuration • Threat hunting • SOC operations** |
-| **opencanary/** | Lightweight network honeypot | Deception tech • Alert enrichment |
+| **[opencanary/](opencanary/)** | **Enterprise deception technology platform (2.5k stars)** | **Honeypot services • Early threat detection • SOC integration** |
 | **honeypot-elk/** | TPOT honeypot + ELK Stack | Threat intel • Log analysis |
 | **testmynids/** | NIDS effectiveness test suite | Snort/Suricata tuning • PCAP crafting |
 
