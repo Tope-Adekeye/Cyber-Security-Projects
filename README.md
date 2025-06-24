@@ -9,7 +9,7 @@ Everything here is open-source and brought together under one roof for convenien
 | **[incident-response-playbooks/](incident-response-playbooks/)** | **Enterprise SOC playbooks for NIST-compliant IR** | **IR process design • NIST 800-61 • SOC Operations** |
 | **[pacu/](pacu/)** | **AWS exploitation framework for cloud pentesting** | **Cloud security • IAM privilege escalation • AWS enumeration** |
 | **[cloudgoat/](cloudgoat/)** | **Vulnerable AWS environments for security training** | **CTF scenarios • Cloud pentesting labs • Terraform IaC** |
-| **sigma/** | Cross-SIEM detection-rule format | Threat hunting • Event correlation |
+| **[sigma/](sigma/)** | **Universal SIEM detection rules (3000+ rules)** | **Cross-platform detection • MITRE ATT&CK coverage • SOC operations** |
 | **memprocfs/** | Memory forensics virtual FS | Malware triage • DFIR |
 | **sysmon-config/** | SwiftonSecurity Sysmon template | Windows telemetry • Endpoint logging |
 | **opencanary/** | Lightweight network honeypot | Deception tech • Alert enrichment |
