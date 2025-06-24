@@ -10,7 +10,7 @@ Everything here is open-source and brought together under one roof for convenien
 | **[pacu/](pacu/)** | **AWS exploitation framework for cloud pentesting** | **Cloud security • IAM privilege escalation • AWS enumeration** |
 | **[cloudgoat/](cloudgoat/)** | **Vulnerable AWS environments for security training** | **CTF scenarios • Cloud pentesting labs • Terraform IaC** |
 | **[sigma/](sigma/)** | **Universal SIEM detection rules (3000+ rules)** | **Cross-platform detection • MITRE ATT&CK coverage • SOC operations** |
-| **memprocfs/** | Memory forensics virtual FS | Malware triage • DFIR |
+| **[MemProcFS/](MemProcFS/)** | **Advanced memory forensics framework** | **Virtual file system • Live analysis • DFIR • Malware detection** |
 | **sysmon-config/** | SwiftonSecurity Sysmon template | Windows telemetry • Endpoint logging |
 | **opencanary/** | Lightweight network honeypot | Deception tech • Alert enrichment |
 | **honeypot-elk/** | TPOT honeypot + ELK Stack | Threat intel • Log analysis |
