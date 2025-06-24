@@ -13,7 +13,7 @@ Everything here is open-source and brought together under one roof for convenien
 | **[MemProcFS/](MemProcFS/)** | **Advanced memory forensics framework** | **Virtual file system • Live analysis • DFIR • Malware detection** |
 | **[sysmon-config/](sysmon-config/)** | **Enterprise Windows monitoring template (5.1k stars)** | **Sysmon configuration • Threat hunting • SOC operations** |
 | **[opencanary/](opencanary/)** | **Enterprise deception technology platform (2.5k stars)** | **Honeypot services • Early threat detection • SOC integration** |
-| **honeypot-elk/** | TPOT honeypot + ELK Stack | Threat intel • Log analysis |
+| **[tpotce/](tpotce/)** | **All-in-one multi honeypot platform with ELK (8k stars)** | **20+ honeypots • Threat intelligence • Enterprise analytics** |
 | **testmynids/** | NIDS effectiveness test suite | Snort/Suricata tuning • PCAP crafting |
 
 ## Quick start (example: Pacu)
