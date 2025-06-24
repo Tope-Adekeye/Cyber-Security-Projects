@@ -182,7 +182,7 @@ This tool represents the cutting edge of cloud security research and offensive s
 **Tope Adekeye**  
 📧 adekeyetopeaiexpert@gmail.com  
 🏢 **Specialization**: Governance • Risk • Compliance • AI Ethics • Cloud Security  
-🔗 [LinkedIn](https://linkedin.com/in/tope-adekeye) | [GitHub](https://github.com/Tope-Adekeye)
+🔗 [LinkedIn](https://www.linkedin.com/in/temitope-adekeye-001a04359/) | [GitHub](https://github.com/Tope-Adekeye)
 
 ---
 
