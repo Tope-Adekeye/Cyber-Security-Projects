@@ -113,7 +113,7 @@ Improvements and additions welcome:
 **Tope Adekeye**  
 📧 adekeyetopeaiexpert@gmail.com  
 🏢 Governance • Risk • Compliance • AI Ethics  
-🔗 [LinkedIn](https://linkedin.com/in/tope-adekeye) | [GitHub](https://github.com/Tope-Adekeye)
+🔗 [LinkedIn](https://www.linkedin.com/in/temitope-adekeye-001a04359/) | [GitHub](https://github.com/Tope-Adekeye)
 
 ---
 *Part of the [Cyber-Security-Projects](https://github.com/Tope-Adekeye/Cyber-Security-Projects) collection*
