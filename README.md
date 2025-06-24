@@ -11,7 +11,7 @@ Everything here is open-source and brought together under one roof for convenien
 | **[cloudgoat/](cloudgoat/)** | **Vulnerable AWS environments for security training** | **CTF scenarios • Cloud pentesting labs • Terraform IaC** |
 | **[sigma/](sigma/)** | **Universal SIEM detection rules (3000+ rules)** | **Cross-platform detection • MITRE ATT&CK coverage • SOC operations** |
 | **[MemProcFS/](MemProcFS/)** | **Advanced memory forensics framework** | **Virtual file system • Live analysis • DFIR • Malware detection** |
-| **sysmon-config/** | SwiftonSecurity Sysmon template | Windows telemetry • Endpoint logging |
+| **[sysmon-config/](sysmon-config/)** | **Enterprise Windows monitoring template (5.1k stars)** | **Sysmon configuration • Threat hunting • SOC operations** |
 | **opencanary/** | Lightweight network honeypot | Deception tech • Alert enrichment |
 | **honeypot-elk/** | TPOT honeypot + ELK Stack | Threat intel • Log analysis |
 | **testmynids/** | NIDS effectiveness test suite | Snort/Suricata tuning • PCAP crafting |
