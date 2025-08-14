@@ -9,7 +9,7 @@
 
 ## 🎯 Overview
 
-Osquery is a revolutionary **SQL-powered operating system instrumentation framework** that transforms endpoint monitoring and security operations. Originally developed by Facebook, this powerful tool exposes operating system data as a high-performance relational database, enabling security teams to query system state, monitor for threats, and conduct forensic investigations using familiar SQL syntax across Windows, Linux, and macOS platforms.
+Osquery is a revolutionary **SQL-powered operating system instrumentation framework** that transforms endpoint monitoring and security operations. This powerful tool exposes operating system data as a high-performance relational database, enabling security teams to query system state, monitor for threats, and conduct forensic investigations using familiar SQL syntax across Windows, Linux, and macOS platforms.
 
 ### 🚀 **Key Features**
 - **SQL-Based Querying**: Query operating system data using standard SQL syntax
