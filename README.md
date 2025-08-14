@@ -7,6 +7,7 @@ Everything here is open-source and brought together under one roof for convenien
 | Folder | What it is | Key Skills |
 | -------------------------------- | ---------------------------------------------------- | ----------------------------------------------- |
 | **[incident-response-playbooks/](incident-response-playbooks/)** | **Enterprise SOC playbooks for NIST-compliant IR** | **IR process design • NIST 800-61 • SOC Operations** |
+| **[webgoat/](webgoat/)** | **OWASP deliberately insecure web app for security training** | **OWASP Top 10 • Web app pentesting • Security education • Hands-on learning** |
 | **[pacu/](pacu/)** | **AWS exploitation framework for cloud pentesting** | **Cloud security • IAM privilege escalation • AWS enumeration** |
 | **[cloudgoat/](cloudgoat/)** | **Vulnerable AWS environments for security training** | **CTF scenarios • Cloud pentesting labs • Terraform IaC** |
 | **[sigma/](sigma/)** | **Universal SIEM detection rules (3000+ rules)** | **Cross-platform detection • MITRE ATT&CK coverage • SOC operations** |
